@@ -1,2 +1,2 @@
-This is some text in the second file.
+This is the first line in the second file.
 This is a second line in the second file after the initial add.
